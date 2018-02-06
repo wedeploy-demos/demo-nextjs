@@ -1,5 +1,5 @@
 {
-	"id": "nuxtjs",
+	"id": "nextjs",
 	"port": 3000,
 	"env": {
 		"HOST": "0.0.0.0",
