@@ -1,14 +1,13 @@
 {
-  "name": "hello-next",
+  "name": "demo-nextjs",
   "version": "1.0.0",
-  "description": "",
+  "description": "A demo of Next.js on WeDeploy",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "next"
+    "dev": "next",
+    "build": "next build",
+    "start": "npm run build && next start",
+    "postinstall": "echo 'It worked!'"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "next": "^4.2.0",
     "react": "^16.2.0",
