@@ -1,4 +1,6 @@
-# Next.JS [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
+[![Deploy](https://cdn.wedeploy.com/images/deploy.svg)](https://console.wedeploy.com/deploy?repo=https://github.com/wedeploy-examples/nextjs-example)
+
+# Next.JS
 
 An example of [Next.JS](https://github.com/zeit/next.js/) on [WeDeploy](https://wedeploy.com/).
 
